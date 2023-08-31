@@ -1,0 +1,17 @@
+Somatórios :
+
+
+Uma sequência possue domínio e contradominio de elementos não vazios.
+
+Termo geral => A(n).
+
+O somatório possue limites inferior e superior.
+
+É o limite inferior que vária.
+
+O limite superior é o final da sequência.
+
+No somátorio de uma constante,basta pegar a constante e muntiplicar pelo limite superior menos inferior mais um.
+
+
+
